@@ -6,4 +6,4 @@ Une fois le dépôt accessible, ajoutez un nouveau fichier texte dans le répert
 “MyStudies”, qui doit contenir un listing de vos études (Année de finalité, titre du diplôme obtenu, nom de
 l’établissement).
 Modifiez le fichier “MyInfo” pour y ajouter un listing de vos hobbies.
-Faites un nouveau commit avec le message “SetInfo_02 : Studies” et publiez le sur votre dépôt distant.
+Faites un nouveau commit avec le message “SetInfo_02 : Studies” et publiez le sur votre dépôt distant. 
